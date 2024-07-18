@@ -42,7 +42,7 @@ global.scan = "https://byte-session.vercel.app/";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  "Your session ID" //Make sure session id starts with Byte;;;
+  "IFSFC74T2UFCIPQDWX2YVQ6GPCDIOSTQ" //Make sure session id starts with Byte;;;
 module.exports = {
   menu: process.env.MENU || "",
   HANDLERS: process.env.PREFIX || ",",
